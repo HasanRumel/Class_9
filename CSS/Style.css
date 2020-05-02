@@ -1,0 +1,24 @@
+.box1{
+	width: 200px;
+	height: 50px;
+	background-color: blue;
+	margin: 30px 50px 25px 55px;
+	padding: 15px;
+	border: 7px dashed white;
+	display: inline;
+}
+.box2{
+	width: 10em;
+	height: 5em;
+	background-color: yellow;
+	margin: 50px;
+}
+h2{
+	display: inline;
+}
+h3{
+	display: inline-block;
+}
+a{
+	display: block;
+}
